@@ -20,7 +20,7 @@ Database: MySQL
 Security: End-to-end encryption for message privacy
 Installation
 Clone the repository to your local machine:
-git clone https://github.com/yourusername/velvet-voice.git
+git clone https://github.com/2003vivek/velevet-voice.git
 Set up the database:
 
 Update the database connection details in db_connect.php.
